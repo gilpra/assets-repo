@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Heroic Game Launcher
+Icon=heroic
+Exec=/home/gilang/Applications/Heroic/heroic %u
+Categories=Development;GTK;
+StartupNotify=false
+Comment=
+Path=
+Terminal=false
+MimeType=x-scheme-handler/heroic;
