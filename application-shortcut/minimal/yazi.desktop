@@ -2,6 +2,7 @@
 Version=1.0
 Type=Application
 Name=Yazi
+Icon=yazi
 GenericName=File Manager
 Comment=Terminal file manager
 Exec=foot -e yazi %F
