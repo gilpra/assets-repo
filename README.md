@@ -1,12 +1,8 @@
 # Assets Repository
 
-This repository contains a collection of visual assets used across multiple projects. It is created to keep assets organized, easy to maintain, and reusable across different repositories and websites without duplicating files.
+This repository contains a collection of visual and other assets used in various projects. It was created to keep assets organized, easy to maintain, and reusable across various projects and repositories.
 
 ## Usage
-
-Feel free to reference assets from this repository in your projects using `raw URLs`, a `CDN`, or by copying the required files directly.
-
-### Example for `raw URLs`:
 
 Just copy the required file URL:
 
