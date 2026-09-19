@@ -13,5 +13,5 @@ https://raw.githubusercontent.com/gilpra/assets-repo/main/assets/images/example.
 **Output:**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/gilpra/assets-repo/main/assets/images/example.png" width="200" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/gilpra/assets-repo/main/images/example.png" width="200" alt="Linux" />
 </p>
